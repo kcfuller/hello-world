@@ -1,2 +1,3 @@
 # hello-world
 Tutorial repository
+Trying to survive the trial known as college...
